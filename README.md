@@ -1,5 +1,5 @@
-# 👨‍💻 Hey, I'm Ituriel, but friends call me Itu:
-I'm a developer in the making, fascinated by the logic behind systems and the magic of interactive worlds. As a second-year IT engineering student at Universidad Anáhuac (Mexico), I split my time between refining elegant back-end solutions and experimenting with game mechanics that spark curiosity. My current focus: mastering game development, data structures, machine learning, and object-oriented programming—one project at a time.
+# 👨‍💻 Hey I'm Itu:
+Developer in the making, fascinated by the logic behind systems and the magic of interactive worlds. As a second-year IT engineering student at Universidad Anáhuac (Mexico), I split my time between refining elegant back-end solutions and experimenting with game mechanics that spark curiosity. My current focus: mastering game development, data structures, machine learning, and object-oriented programming—one project at a time.
 
 
 ## 🌐 Socials:
