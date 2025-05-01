@@ -1,6 +1,13 @@
 # 👨‍💻 Hey I'm Itu:
-Developer in the making, fascinated by the logic behind systems and the magic of interactive worlds. As a second-year IT engineering student at Universidad Anáhuac (Mexico), I split my time between refining elegant back-end solutions and experimenting with game mechanics that spark curiosity. My current focus: mastering game development, data structures, machine learning, and object-oriented programming—one project at a time.
+Developer in the making, fascinated by the logic behind systems and the magic of interactive worlds. As a second-year IT engineering student at Universidad Anáhuac (Mexico), I split my time between refining elegant back-end solutions and experimenting with game mechanics that spark curiosity. 
 
+### My preferred language:  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Currently studying:
+- Object Oriented Programming. 📦
+- Data structures. 🧬
+- Quantum Computing. 💻
+- Game development. 👾
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ituriel.saenz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ituuuriel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilsaenzacademic@gmail.com) 
@@ -12,10 +19,7 @@ Developer in the making, fascinated by the logic behind systems and the magic of
 ![](https://nirzak-streak-stats.vercel.app/?user=IturielLSaenz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IturielLSaenz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IturielLSaenz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IturielLSaenz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with the help of GPRM ( https://gprm.itsvg.in ) -->
