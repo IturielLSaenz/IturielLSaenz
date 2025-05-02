@@ -1,7 +1,8 @@
 # 👨‍💻 Hey I'm Itu:
 Developer in the making, fascinated by the logic behind systems and the magic of interactive worlds. As a second-year IT engineering student at Universidad Anáhuac (Mexico), I split my time between refining elegant back-end solutions and experimenting with game mechanics that spark curiosity. 
 
-### My preferred language:  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### My preferred language:  
+- I use ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) as my go-to language on problem solving and implementing ideas, but I'm not locking myself on it, I love experimenting with new languages!
 
 ### Currently studying:
 - Object Oriented Programming. 📦
