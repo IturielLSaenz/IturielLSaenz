@@ -3,6 +3,7 @@ Developer in the making, fascinated by the logic behind systems and the magic of
 
 ### My preferred language:  
 - I use ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) as my go-to language on problem solving and implementing ideas, but I'm not locking myself on it, I love experimenting with new languages!
+- And for making games: ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine) I use gdscript primarly!
 
 ### Currently studying:
 - Object Oriented Programming. 📦
